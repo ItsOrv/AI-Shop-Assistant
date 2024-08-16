@@ -143,7 +143,7 @@ def save_feedback(user_id, feedback_message):
         json.dump(feedback_data, file)
 
 # the bot
-TOKEN = "7000348946:AAEv39Hg3hR4gNbtAeA7xPMFmwm6Z81SY5o"
+TOKEN = "7000348946:AAEv39Hg3hR4gNbtAeA7xPMFmwm6Z81SY5o"  #it's useless, don't take, just for test
 
 updater = Updater(TOKEN, use_context=True)
 dispatcher = updater.dispatcher
