@@ -5,7 +5,6 @@
   <a href="README-fa.md">فارسی</a>
 </p>
 
-![Ai Shop Assistant](https://via.placeholder.com/800x400?text=Ai+Shop+Assistant)
 
 Ai-Shop-Assistant is an AI-powered Telegram bot designed for automated customer support in online stores. It utilizes Telethon and the RAG (Retrieval-Augmented Generation) algorithm to provide intelligent and context-aware responses to customer inquiries.
 
