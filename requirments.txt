@@ -1,5 +1,6 @@
-transformers
-torch
+telethon
 sentence-transformers
-pandas
-python-telegram-bot
+faiss-cpu
+torch
+transformers
+hazm
